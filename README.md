@@ -1,1 +1,1 @@
-This the code for solving problems on a websites. I can't say its name though :D, Nehahahahaha
+This code contain soulutions for some of the problems on Project Euler and UVA Judge.
